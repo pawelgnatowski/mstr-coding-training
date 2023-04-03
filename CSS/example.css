@@ -1,0 +1,29 @@
+.box {
+    width: 50%;
+    height: 20%;
+    background-color: beige;
+}
+
+.box,
+.bottom {
+    background-color: red;
+}
+
+.bottom {
+    background-color: red;
+}
+.box {
+    background-color: red;
+}
+
+#no-target {
+    background-color: blue;
+}
+
+div[majkro="bitcoin"] {
+    background-color: black;
+}
+
+.bottom {
+    background-color: beige;
+}

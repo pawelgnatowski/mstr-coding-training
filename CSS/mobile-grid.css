@@ -1,0 +1,5 @@
+/* Hide a grid using attribute selector */
+[aria-label="GO TO COCKPITS iPad"] {
+    display: none !important; 
+}
+

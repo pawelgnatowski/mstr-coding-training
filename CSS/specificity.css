@@ -1,0 +1,27 @@
+div {
+    background-color: navajowhite !important;
+}
+
+div.box {
+    width: 50%;
+    height: 20%;
+    background-color: red;
+}
+
+#no-target {
+    background-color: blue;
+}
+
+
+div[majkro="bitcoin"] {
+    background-color: black;
+}
+
+.bottom {
+    background-color: beige;
+}
+
+div {
+    background-color: pink !important;
+    border-top-right-radius: ;
+}
